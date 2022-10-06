@@ -1,0 +1,15 @@
+{
+  "name": "lucabet",
+  "theme": "syntax",
+  "version": "1.0.1",
+  "description": "lucabet เว็บสล็อตที่มียอดคนเล่นมากที่สุดในประเทศไทย แตกไวจ่ายจริง แตกกี่บาทเราก็จ่าย",
+  "keywords": [
+    "lucabet",
+    "เว็บสล็อต"
+  ],
+  "repository": "https://github.com/combo168/lucabetfixbyby",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
